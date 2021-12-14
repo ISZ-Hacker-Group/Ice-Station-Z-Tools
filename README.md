@@ -3,6 +3,10 @@ A simple tool that changes the graphical settings in Ice Station Z PC/Steam. So 
 
 Or just crank your Graphics to the max and play on the highest graphics possible in Ice Station Z PC/Steam.
 
+Sometimes the Tool will register as a virus. This is a false positive. Meaning Windows is confused as to what the application does.
+
+Amd because it's messing with .ini files which are configuration files. It thinks the tool is a virus when it isn't.
+
 Download Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7700914/Ice-Station-Z-Graphical-Optimizer.zip)
 
 Screenshots:

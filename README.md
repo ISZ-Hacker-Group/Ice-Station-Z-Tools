@@ -9,7 +9,8 @@ And because it's messing with .ini files which are configuration files. It think
 
 Download Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7700914/Ice-Station-Z-Graphical-Optimizer.zip)
 
-Download Advanced Settings Here: [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7798484/ISZ-Advanced-Settings.zip)
+Download Advanced Settings Here: [ISZ-Advanced-Settings-V2](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7799833/ISZ-Advanced-Settings-V2.zip)
+
 
 ADVANCED SETTINGS ARE VERY EXPERIMENTAL! USE AT YOUR OWN RISK!
 

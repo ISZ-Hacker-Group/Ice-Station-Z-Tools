@@ -11,6 +11,10 @@ Download Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/
 
 Download Advanced Settings Here: [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7798484/ISZ-Advanced-Settings.zip)
 
+ADVANCED SETTINGS ARE VERY EXPERIMENTAL! USE AT YOUR OWN RISK!
+
+IF YOU GET A CORRUPTED INSTALL USE THE WOBBLY TOOTH SAVE MANAGER (TO SAVE ANY DATA AT RISK), OR IMPORT A BACKUP OF YOUR OWN SETTINGS.
+
 
 Screenshots:
 

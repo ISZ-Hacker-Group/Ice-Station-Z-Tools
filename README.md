@@ -11,7 +11,7 @@ Download Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/
 
 Download Advanced Settings Here: [ISZ-Advanced-Settings-V2](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7799833/ISZ-Advanced-Settings-V2.zip)
 
-Download The Crash Log Deletion Tool: [ISZ-Crash-Logger-Tool](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7818830/ISZ-Crash-Logger-Tool.zip)
+Download The Crash Log Deletion Tool: [ISZ-Crash-Logger-Tool](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/releases/download/2.0/ISZ-Crash-Logger-Tool.exe)
 
 
 

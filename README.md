@@ -7,11 +7,11 @@ Sometimes the Tool will register as a virus. This is a false positive. Meaning W
 
 And because it's messing with .ini files which are configuration files. It thinks the tool is a virus when it isn't.
 
-Download Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7700914/Ice-Station-Z-Graphical-Optimizer.zip)
+Download The Graphical Optimizer Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7700914/Ice-Station-Z-Graphical-Optimizer.zip)
 
 Download Advanced Settings Here: [ISZ-Advanced-Settings-V2](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7799833/ISZ-Advanced-Settings-V2.zip)
 
-Download The Crash Log Deletion Tool: [ISZ-Crash-Logger-Tool](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/releases/download/2.0/ISZ-Crash-Logger-Tool.exe)
+Download The Crash Logger Tool Here: [ISZ-Crash-Logger-Tool](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/releases/download/2.0/ISZ-Crash-Logger-Tool.exe)
 
 
 

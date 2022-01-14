@@ -3,10 +3,9 @@ A few simple tools to improve the user experience in Ice Station Z PC/Steam.
 
 Crank your Graphics to the max and play on the highest graphics possible or mess around with bloom and motion blurr.
 
-Download The Graphical Optimizer Here:[Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872555/Ice-Station-Z-Graphical-Optimizer.zip)
+Download The Graphical Optimizer Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872555/Ice-Station-Z-Graphical-Optimizer.zip)
 
 Download Advanced Settings Here: [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872554/ISZ-Advanced-Settings.zip)
-
 
 ADVANCED SETTINGS ARE VERY EXPERIMENTAL! USE AT YOUR OWN RISK!
 

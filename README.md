@@ -3,6 +3,24 @@ A few simple tools to improve the user experience in Ice Station Z PC/Steam.
 
 Crank your Graphics to the max and play on the highest graphics possible or mess around with bloom and motion blurr.
 
+If you get an Error on the Graphical Optimizer or any of the application's don't worry. Their's another way. (Just very tedious)
+
+- Download the "meta" folder/zip file.
+
+- Extract it to your downloaded location.
+
+- Go to your desired folder inside of the "meta" folder.
+
+- Copy the selected .ini
+
+- And go to %APPDATA% in the Windows Run/File Explorer. (or just go here: C:\Users\%USERNAME%\AppData\Local\ISZ\Saved).
+
+- Navagate to the "config" folder, Then the "WindowsNoEditor" folder. 
+
+- Then paste your selected file and overwrite any files that Windows indicates need to be overwritten.
+
+If they do work for you. That's Great!
+
 Sometimes these Tools will register as a "virus". This is a false positive. Meaning Windows is confused as to what the application actually does.
 
 And because it's messing with .ini/Log files which are configuration & Log files. It thinks the tool is a virus when it isn't. (Just settings).

@@ -21,10 +21,6 @@ If you get an Error on the Graphical Optimizer or any of the application's don't
 
 If you REAALLLY, want to download the applications and test your luck. The links are located below.
 
-Sometimes these Tools will register as a "virus". This is a false positive. Meaning Windows is confused as to what the application actually does.
-
-And because it's messing with .ini/Log files which are configuration & Log files. It thinks the tool is a virus when it isn't. (Just settings).
-
 Download The Graphical Optimizer Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7700914/Ice-Station-Z-Graphical-Optimizer.zip)
 
 Download Advanced Settings Here: [ISZ-Advanced-Settings-V2](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7799833/ISZ-Advanced-Settings-V2.zip)

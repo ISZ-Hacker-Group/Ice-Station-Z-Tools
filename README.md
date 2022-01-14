@@ -19,7 +19,7 @@ If you get an Error on the Graphical Optimizer or any of the application's don't
 
 - Then paste your selected file and overwrite any files that Windows indicates need to be overwritten.
 
-If they do work for you. That's Great!
+If you REAALLLY, want to download the applications and test your luck. The links are located below.
 
 Sometimes these Tools will register as a "virus". This is a false positive. Meaning Windows is confused as to what the application actually does.
 

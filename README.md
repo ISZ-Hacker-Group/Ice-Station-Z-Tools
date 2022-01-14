@@ -13,7 +13,7 @@ If you get an Error on the Graphical Optimizer or any of the application's don't
 
 - Copy the selected .ini
 
-- And go to %APPDATA% in the Windows Run/File Explorer. (or just go here: C:\Users\%USERNAME%\AppData\Local\ISZ\Saved).
+- And go to %APPDATA% in the Windows Run/File Explorer. (or just go here: C:\Users\ %USERNAME% \AppData\Local\ISZ\Saved).
 
 - Navagate to the "config" folder, Then the "WindowsNoEditor" folder. 
 

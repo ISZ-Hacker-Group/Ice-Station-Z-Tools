@@ -3,30 +3,9 @@ A few simple tools to improve the user experience in Ice Station Z PC/Steam.
 
 Crank your Graphics to the max and play on the highest graphics possible or mess around with bloom and motion blurr.
 
-If you get an Error on the Graphical Optimizer or any of the application's don't worry. Their's another way. (Just very tedious)
+Download The Graphical Optimizer Here:[Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872555/Ice-Station-Z-Graphical-Optimizer.zip)
 
-- Download the "meta" folder/zip file.
-
-- Extract it to your downloaded location.
-
-- Go to your desired folder inside of the "meta" folder.
-
-- Copy the selected .ini
-
-- And go to %APPDATA% in the Windows Run/File Explorer. (or just go here: C:\Users\ %USERNAME% \AppData\Local\ISZ\Saved).
-
-- Navagate to the "config" folder, Then the "WindowsNoEditor" folder. 
-
-- Then paste your selected file and overwrite any files that Windows indicates need to be overwritten.
-
-If you REAALLLY, want to download the applications and test your luck. The links are located below.
-
-Download The Graphical Optimizer Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7700914/Ice-Station-Z-Graphical-Optimizer.zip)
-
-Download Advanced Settings Here: [ISZ-Advanced-Settings-V2](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/files/7799833/ISZ-Advanced-Settings-V2.zip)
-
-Download The Crash Logger Tool Here: [ISZ-Crash-Logger-Tool](https://github.com/Cracko298/Ice-Station-Z-Graphical-Optimizer/releases/download/2.0/ISZ-Crash-Logger-Tool.exe)
-
+Download Advanced Settings Here: [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872554/ISZ-Advanced-Settings.zip)
 
 
 ADVANCED SETTINGS ARE VERY EXPERIMENTAL! USE AT YOUR OWN RISK!

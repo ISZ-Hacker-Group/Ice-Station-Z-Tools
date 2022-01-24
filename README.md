@@ -7,6 +7,9 @@ Download The Graphical Optimizer Here: [Ice-Station-Z-Graphical-Optimizer](https
 
 Download Advanced Settings Here: [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872554/ISZ-Advanced-Settings.zip)
 
+Download ISZ-PC-Checker Here: [PC-Checker](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7927905/Can.My.PC.Run.Ice.Station.Z.zip)
+
+
 These applications may trigger windows defender. (These are false positives). This is 100% the old application just updated to work with a better compiler.
 
 ADVANCED SETTINGS ARE VERY EXPERIMENTAL! USE AT YOUR OWN RISK!

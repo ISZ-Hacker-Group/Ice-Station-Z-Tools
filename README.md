@@ -14,7 +14,6 @@
 - These tools may trigger windows defender. (These are false positives).
 
 
-=== GRAPHICAL OPTIMIZER SCREENSHOTS === 
 
 ![RetroStationZ](https://user-images.githubusercontent.com/78656905/145750985-25699056-0208-4f41-a149-e6f769d3d521.png)
 
@@ -27,12 +26,4 @@
 === ADVANCED SETTINGS SCREENSHOTS ===
 
 ![image](https://user-images.githubusercontent.com/78656905/147884754-61d21ce4-5c0a-4c03-a7e1-bff9e5990389.png)
-
-![image](https://user-images.githubusercontent.com/78656905/147884783-c56c3bf6-16f3-46ef-a885-2146a4ccc089.png)
-
-![image](https://user-images.githubusercontent.com/78656905/147884809-18fedda8-2f5a-4c99-afdf-37d92299c257.png)
-
-![image](https://user-images.githubusercontent.com/78656905/147884844-aa07bc51-35f1-4762-936e-bdc1c849d6f9.png)
-
-![image](https://user-images.githubusercontent.com/78656905/147884857-acff2769-14f8-4be8-b350-e92145661d48.png)
 

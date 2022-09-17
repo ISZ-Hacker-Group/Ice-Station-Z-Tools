@@ -1,20 +1,17 @@
 # Ice-Station-Z-Tools
-A few simple tools to improve the user experience in Ice Station Z PC/Steam.
+- A few simple tools to improve the user experience in Ice Station Z PC/Steam.
 
-Crank your Graphics to the max and play on the highest graphics possible or mess around with bloom and motion blurr.
+- Download [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872555/Ice-Station-Z-Graphical-Optimizer.zip).
 
-Download The Graphical Optimizer Here: [Ice-Station-Z-Graphical-Optimizer](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872555/Ice-Station-Z-Graphical-Optimizer.zip)
+- Download [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872554/ISZ-Advanced-Settings.zip).
 
-Download Advanced Settings Here: [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872554/ISZ-Advanced-Settings.zip)
+- Download ISZ-PC-Checker Here: [PC-Checker](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7927905/Can.My.PC.Run.Ice.Station.Z.zip)
 
-Download ISZ-PC-Checker Here: [PC-Checker](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7927905/Can.My.PC.Run.Ice.Station.Z.zip)
-
-
-These applications may trigger windows defender. (These are false positives). This is 100% the old application just updated to work with a better compiler.
-
-ADVANCED SETTINGS ARE VERY EXPERIMENTAL! USE AT YOUR OWN RISK!
-
-IF YOU GET A CORRUPTED INSTALL USE THE WOBBLY TOOTH SAVE MANAGER (TO SAVE ANY DATA AT RISK), OR IMPORT A BACKUP OF YOUR OWN SETTINGS.
+# Notes:
+- Advanced Settings is extremely experimental.
+- Not in active development anymore.
+- If any issues arise, makle an [Issue Request](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Tools/issues).
+- These tools may trigger windows defender. (These are false positives).
 
 
 === GRAPHICAL OPTIMIZER SCREENSHOTS === 

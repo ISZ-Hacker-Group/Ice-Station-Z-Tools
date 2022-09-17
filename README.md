@@ -5,7 +5,7 @@
 
 - Download [ISZ-Advanced-Settings](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7872554/ISZ-Advanced-Settings.zip).
 
-- Download ISZ-PC-Checker Here: [PC-Checker](https://github.com/Cracko298/Ice-Station-Z-Tools/files/7927905/Can.My.PC.Run.Ice.Station.Z.zip)
+- Download [ISZ-Advanced-Hack-Tool](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Advanced-Hack-Tool).
 
 # Notes:
 - Advanced Settings is extremely experimental.
